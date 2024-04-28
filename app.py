@@ -3,7 +3,7 @@ import pdfplumber
 import openai
 
 # Set up OpenAI API
-openai.api_key = "sk-proj-0p5yomeNioeP1JVSw7ZeT3BlbkFJC5lGXwrFcNFiAhl61N3N"  # Replace with your OpenAI API key
+openai.api_key = "Your ApI KEY "  # Replace with your OpenAI API key
 
 # Function to extract text from PDF
 def extract_text_from_pdf(uploaded_file):
