@@ -71,6 +71,5 @@ def main():
             )
 
 # Run the app
-# Run the app
 if __name__ == "__main__":
     main()
